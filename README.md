@@ -1,7 +1,6 @@
 # React + Vite
 
 
-Currently, two official plugins are available:
 - It is a project containing two web pages.
 - The first webpage contains a list of repositories given by the github search API.
 - The owner of the repository, description, star count, fork count, and primary language are also displayed.
