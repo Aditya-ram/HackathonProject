@@ -1,0 +1,25 @@
+.themeDiv{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: 10px;
+}
+.themeBtn{
+    border-radius: 5px;
+    cursor: pointer;
+}
+.WholeWhite{
+    background-color: white;
+    color:black;
+}
+.WholeBlack{
+    background-color: black;
+    color:white;
+
+}
+.themeBtn{
+    border:none;
+    background-color: #f5e342;
+    width:10%;
+    height:4vh;
+}

@@ -1,0 +1,8 @@
+.commit{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.commit{
+    background-color: #F0ECE3;
+}
